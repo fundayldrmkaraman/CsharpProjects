@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\bin\Debug\net5.0\Creating Triangle.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\bin\Debug\net5.0\Creating Triangle.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\bin\Debug\net5.0\Creating Triangle.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\bin\Debug\net5.0\Creating Triangle.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\bin\Debug\net5.0\Creating Triangle.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\bin\Debug\net5.0\Creating Triangle.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\refint\Creating Triangle.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\Creating Triangle.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Triangle\obj\Debug\net5.0\ref\Creating Triangle.dll
