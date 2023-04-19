@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\bin\Debug\net5.0\Creating Circle.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\bin\Debug\net5.0\Creating Circle.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\bin\Debug\net5.0\Creating Circle.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\bin\Debug\net5.0\Creating Circle.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\bin\Debug\net5.0\Creating Circle.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\bin\Debug\net5.0\Creating Circle.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\refint\Creating Circle.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\Creating Circle.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Creating Circle\obj\Debug\net5.0\ref\Creating Circle.dll
