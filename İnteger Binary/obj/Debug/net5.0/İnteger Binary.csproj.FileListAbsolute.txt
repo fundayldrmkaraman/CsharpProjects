@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\bin\Debug\net5.0\İnteger Binary.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\bin\Debug\net5.0\İnteger Binary.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\bin\Debug\net5.0\İnteger Binary.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\bin\Debug\net5.0\İnteger Binary.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\bin\Debug\net5.0\İnteger Binary.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\bin\Debug\net5.0\İnteger Binary.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\refint\İnteger Binary.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\İnteger Binary.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\İnteger Binary\obj\Debug\net5.0\ref\İnteger Binary.dll
