@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\bin\Debug\net5.0\Squaring.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\bin\Debug\net5.0\Squaring.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\bin\Debug\net5.0\Squaring.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\bin\Debug\net5.0\Squaring.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\bin\Debug\net5.0\Squaring.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\bin\Debug\net5.0\Squaring.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\refint\Squaring.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\Squaring.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Squaring\obj\Debug\net5.0\ref\Squaring.dll
