@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\bin\Debug\net5.0\Area Calculation.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\bin\Debug\net5.0\Area Calculation.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\bin\Debug\net5.0\Area Calculation.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\bin\Debug\net5.0\Area Calculation.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\bin\Debug\net5.0\Area Calculation.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\bin\Debug\net5.0\Area Calculation.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\refint\Area Calculation.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\Area Calculation.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Area Calculation\obj\Debug\net5.0\ref\Area Calculation.dll
