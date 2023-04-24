@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\bin\Debug\net5.0\Voting App.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\bin\Debug\net5.0\Voting App.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\bin\Debug\net5.0\Voting App.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\bin\Debug\net5.0\Voting App.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\bin\Debug\net5.0\Voting App.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\bin\Debug\net5.0\Voting App.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\refint\Voting App.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\Voting App.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\Voting App\obj\Debug\net5.0\ref\Voting App.dll
