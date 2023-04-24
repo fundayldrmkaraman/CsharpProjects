@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\bin\Debug\net5.0\ATM App.exe
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\bin\Debug\net5.0\ATM App.deps.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\bin\Debug\net5.0\ATM App.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\bin\Debug\net5.0\ATM App.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\bin\Debug\net5.0\ATM App.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\bin\Debug\net5.0\ATM App.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\refint\ATM App.dll
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.pdb
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ATM App.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CsharpProjeleri\ATM App\obj\Debug\net5.0\ref\ATM App.dll
