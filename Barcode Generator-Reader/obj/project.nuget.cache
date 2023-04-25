@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3W9gsCsYYenl2LgeG2Qj/7yDHJ8XST5cwF7sg/hP99SSEoyGgcJg84Tx6+lZWldNgfpzLfJmYd0e/Y5Htxzow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\CsharpProjeleri\\Barcode Generator-Reader\\Barcode Generator-Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
